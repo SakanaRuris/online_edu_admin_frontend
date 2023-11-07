@@ -209,9 +209,9 @@ aliyun.oss.file.bucketname=oypicbed
 aliyun.oss.file.filehost=ossTest
 ~~~
 
->**启动后台管理UI**
+>**启动后端**
 
-* https://github.com/SakanaRuris/online_edu_admin_frontend.git
+* https://github.com/SakanaRuris/online_edu_backend.git
 
 >**启动前台Web UI**
 
