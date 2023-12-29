@@ -115,7 +115,7 @@ IDEA，Visual Studio Code，JDK >= 1.8 (recommended version 1.8)， Mysql >= 5.7
 * Clone the entire backend project `online_admin_frontend` and import it into IDEA to complete the compilation
 
 ~~~
-[https://github.com/SakanaRuris/online_edu_backend.git](https://github.com/SakanaRuris/online_edu_admin_frontend.git)
+https://github.com/SakanaRuris/online_edu_backend.git
 ~~~
 
 * Modify the MySQL configuration information of the application.properties file of each module
